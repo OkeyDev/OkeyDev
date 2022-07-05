@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OkeyDev
+- 👀 I’m interested in GameDev and Frontend
+- 🌱 I’m currently learning Frontend
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Email - dom33m3@gmail.com, Telegram - @OkeyDot 
